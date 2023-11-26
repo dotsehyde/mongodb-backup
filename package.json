@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-backup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "backup": "node index.js"
+  },
+  "keywords": [],
+  "author": "Benjamin",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb-backup": "^1.6.9"
+  }
+}
