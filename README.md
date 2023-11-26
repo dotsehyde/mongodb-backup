@@ -1,6 +1,6 @@
 ## MongoDB Backup Script
 
-This script is used to backup MongoDB databases. It is intended to be run from a cron job.
+This script is used to backup MongoDB databases. It will create a directory with the current date and time and store the backup in that directory.
 
 ### Usage
 
@@ -10,4 +10,4 @@ This script is used to backup MongoDB databases. It is intended to be run from a
 
 - Run `npm install` to install dependencies
 
-- Run `npm run backupx` to run the script
+- Run `npm run backup` to run the script
